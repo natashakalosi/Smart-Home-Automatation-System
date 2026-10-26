@@ -2,7 +2,7 @@
 
 A C++ console application that simulates a basic smart home system.
 
-Features
+Features:
 
 -Light and fan control
 
