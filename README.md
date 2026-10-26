@@ -1,4 +1,4 @@
-# Smart-Home-Automatation-System
+# Smart-Home-Automation-System
 
 A C++ console application that simulates a basic smart home system.
 
